@@ -4,5 +4,5 @@ Repository of centralized exchange failures, malfunctions, bankruptcies and scam
 <b> History </b>
 <!-- image -->
 <p align="center">
-  <img src="0001.jpg" alt="" width="400" class="center" style="margin-left: 100px;"/>
+  <img src="src/0001.jpg" alt="" width="400" class="center" style="margin-left: 100px;"/>
 </p>
