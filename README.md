@@ -1,5 +1,5 @@
 # Let's practice safe CEX
-Repository of centralized exchange failures, malfunctions, bankruptcies and scams. CEX collapses are not new to the blockchain industry.
+Repository of centralized exchange(CEX) failures, malfunctions, bankruptcies and scams. CEX collapses are not new to the blockchain industry.
 
 <b> History </b>
 <!-- image -->
